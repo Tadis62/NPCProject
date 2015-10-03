@@ -1,0 +1,199 @@
+{
+    "data": {
+        "trainerType": "Youngster",
+        "minLevel": 4,
+        "maxLevel": 12,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 12
+    },
+    "pokemon": [
+        {
+            "name": "Rattata"
+        },
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Ekans"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Mankey"
+        },
+        {
+            "name": "Trapinch"
+        },
+        {
+            "name": "Slowpoke"
+        }
+    ],
+    "names": [
+        {
+            "name": "Albert"
+        },
+        {
+            "name": "Allen"
+        },
+        {
+            "name": "Austin"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Billy"
+        },
+        {
+            "name": "Calvin"
+        },
+        {
+            "name": "Danny"
+        },
+        {
+            "name": "Don"
+        },
+        {
+            "name": "Dylan"
+        },
+        {
+            "name": "Eddy"
+        },
+        {
+            "name": "Gordon"
+        },
+        {
+            "name": "Ian"
+        },
+        {
+            "name": "Jason"
+        },
+        {
+            "name": "Jimmy"
+        },
+        {
+            "name": "Joey"
+        },
+        {
+            "name": "Jonathan"
+        },
+        {
+            "name": "Josh"
+        },
+        {
+            "name": "Kevin"
+        },
+        {
+            "name": "Logan"
+        },
+        {
+            "name": "Mickaël"
+        },
+        {
+            "name": "Mikey"
+        },
+        {
+            "name": "Michel"
+        },
+        {
+            "name": "Norbert"
+        },
+        {
+            "name": "Oliver"
+        },
+        {
+            "name": "Owen"
+        },
+        {
+            "name": "Parker"
+        },
+        {
+            "name": "Peter"
+        },
+        {
+            "name": "Samuel"
+        },
+        {
+            "name": "Timmy"
+        },
+        {
+            "name": "Tommy"
+        },
+        {
+            "name": "Travis"
+        },
+        {
+            "name": "Tristan"
+        },
+        {
+            "name": "Tyler"
+        },
+        {
+            "name": "Warren"
+        },
+        {
+            "name": "Wyatt"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Oh, Tu es un dresseur aussi? Testons les Pokémon de l'autre!",
+            "win": "Je sais que mes Pokémon sont meilleurs que les tiens!",
+            "lose": "Tes Pokémon sont meilleurs que les miens!?"
+        },
+        {
+            "opening": "Mon équipe est imbattable! Tu penses y arriver?",
+            "win": "Ahahaha! Mon équipe est imbattable!",
+            "lose": "QUOI!? Mais mon équipe est invincible!"
+        },
+        {
+            "opening": "Tu vas faire mal à mes Pokémon?",
+            "win": "Oui! Mes Pokémon ne sont pas blessés!",
+            "lose": "Mes Pokémon! Non!"
+        },
+        {
+            "opening": "...Combattons.",
+            "win":...J'ai gagné.",
+            "lose": "...J'ai perdu."
+        },
+        {
+            "opening": "J'aime le fromage! Il n'y a rien de meilleur! Oh, tu veux te battre? J'étais en train de manger du fromage mais ça peut attendre.",
+            "win": "Victoire! Et je la doit au fromage!",
+            "lose": "Oh super, je retourne manger ce fromage."
+        },
+        {
+            "opening": "Tu m'as regardé! Combattons!",
+            "win": "Me regarder t'as condamné!",
+            "lose": "J'aurais aimer que tu ne me regardes pas..."
+        },
+        {
+            "opening": "Mes parents pensés que je ne pouvais pas être dresseur, mais maintenant je suis imbattable!",
+            "win": "Je savais que je pouvais être un dresseur!",
+            "lose": "Mes parents avais peut-être raison. Je ne peux pas être dresseur..."
+        },
+        {
+            "opening": "Ha, Tu as l'air faible! combattons!",
+            "win": "Ha! Tu ES faible!",
+            "lose": "Quoi!? Tu n'es pas faible!?"
+        },
+        {
+            "opening": "Je suis perdu. Si je te bat, dis moi quelle est la ville la plus proche s'il te plaît...",
+            "win": "Oui! Maintenant, où est la ville la plus proche? Tu ne vas pas me le dire!?",
+            "lose": "Oh non... Je n'arriverais jamais en ville..."
+        },
+        {
+            "opening": "Tu m'as l'air mauvais comme dreseur. Ha, Je vais battre tes faibles Pokémon! Battons nous looser!",
+            "win": "Haha! Je savais que t'étais faible! T'es Pathétique!",
+            "lose": "Q-Quoi! C'est impossible! Comment t'as eu des Pokémon aussi cool!?"
+        }
+    ]
+}
+
