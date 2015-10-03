@@ -1,0 +1,52 @@
+{
+    "data": {
+        "trainerType": "Gentleman",
+        "minLevel": 7,
+        "maxLevel": 12,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 2,
+        "winnings": 110,
+        "rarity": 6,
+        "spawnBiomes": "Plains"
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Grimer"
+        }
+    ],
+    "names": [
+        {
+            "name": "Winston"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "William"
+        },
+        {
+            "name": "Kingsley"
+        },
+        {
+            "name": "Lincoln"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Je posséde un Manoir.",
+            "win": "Ce fut un jeu d'enfant.",
+            "lose": "C'était impoli de votre part."
+        },
+        {
+            "opening": "Faire de l'argent n'est pas mon seul talent.",
+            "win": "J'en ai beaucoup d'autres en réserve.",
+            "lose": "J'ai peut-être besoin de plus de pratique."
+        }
+    ]
+}
