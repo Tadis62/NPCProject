@@ -1,0 +1,148 @@
+{
+    "data": {
+        "trainerType": "ScientistWoman",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 30
+    },
+    "pokemon": [
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Magnezone"
+        },
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Voltorb"
+        },
+        {
+            "name": "Electrode"
+        },
+        {
+            "name": "Grimer"
+        },
+        {
+            "name": "Muk"
+        },
+        {
+            "name": "Ditto"
+        },
+        {
+            "name": "Porygon"
+        },
+        {
+            "name": "Porygon2"
+        },
+        {
+            "name": "Porygon-Z"
+        },
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Klang"
+        },
+        {
+            "name": "Klinklang"
+        },
+        {
+            "name": "Solosis"
+        },
+        {
+            "name": "Duosion"
+        },
+        {
+            "name": "Reuniclus"
+        },
+        {
+            "name": "Omanyte"
+        },
+        {
+            "name": "Omastar"
+        },
+        {
+            "name": "Kabuto"
+        },
+        {
+            "name": "Kabutops"
+        },
+        {
+            "name": "Aerodactyl"
+        },
+        {
+            "name": "Anorith"
+        },
+        {
+            "name": "Armaldo"
+        },
+        {
+            "name": "Cranidos"
+        },
+        {
+            "name": "Rampardos"
+        },
+        {
+            "name": "Shieldon"
+        },
+        {
+            "name": "Bastiodon"
+        },
+        {
+            "name": "Tirtouga"
+        },
+        {
+            "name": "Carracosta"
+        },
+        {
+            "name": "Archen"
+        },
+        {
+            "name": "Archeops"
+        }
+    ],
+    "names": [
+        {
+            "name": "Marie"
+        },
+        {
+            "name": "Anne"
+        },
+        {
+            "name": "Irène"
+        },
+        {
+            "name": "Heather"
+        },
+        {
+            "name": "Sofia"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Je vais collecter des données sur notre combat!",
+            "win": "Et je note ça comme un succés. Pour moi",
+            "lose": "Les données montrent que je ne me suis pas assez entraînée..."
+        },
+        {
+            "opening": "Oui! Un combat expérimental!",
+            "win": "C'était très instructif!",
+            "lose": "Les tests sont peu concluants. Je dois travailler d'avantage."
+        },
+        {
+            "opening": "J'ai travaillé sur une statégie basée sur des statistiques élaborées. Je ne peux pas perdre!",
+            "win": "Les statistiques ont parlé, C'est ce que j'avais prévu.",
+            "lose": "Oh non, mes calculs étaient erronés..."
+        }
+    ]
+}
