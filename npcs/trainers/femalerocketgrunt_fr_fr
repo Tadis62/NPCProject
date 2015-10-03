@@ -1,0 +1,159 @@
+{
+    "data": {
+        "trainerType": "FemaleRocketGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Butch"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Paul"
+        },
+        {
+            "name": "Chazz"
+        },
+        {
+            "name": "Jayden"
+        },
+        {
+            "name": "Zain"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Olivier"
+        },
+        {
+            "name": "Gideon"
+        },
+        {
+            "name": "Raphaël"
+        },
+        {
+            "name": "Jess"
+        },
+        {
+            "name": "Cassandra"
+        },
+        {
+            "name": "Suzan"
+        },
+        {
+            "name": "Anaïs"
+        },
+        {
+            "name": "Heïdi"
+        },
+        {
+            "name": "Ania"
+        },
+        {
+            "name": "Olive"
+        },
+        {
+            "name": "Gloria"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Hé petit, Files moi tes Pokémon!",
+            "win": "J'ai gagné. Donne moi tes Pokémon maintenant",
+            "lose": "Argh, comment as-tu pu me battre!"
+        },
+        {
+            "opening": "Qu'est ce que tu fais là?!",
+            "win": "Sors d'ici.",
+            "lose": "Oh non! J'ai perdu!"
+        },
+        {
+            "opening": "C'est une opération importante. On n'a pas besoin de fouineur!",
+            "win": "Dégage maintenant!",
+            "lose": "Impossible!"
+        },
+        {
+            "opening": "Nous sommes de retour!",
+            "win": "Pour vous jouer un mauvais tour.",
+            "lose": "C'est de la camelote ces Pokémon!"
+        },
+        {
+            "opening": "Les Pokémon sont des outils. A quoi ça sert de bien les traîter?",
+            "win": "Tu vois? Ils sont inutiles.",
+            "lose": "Choses inutiles!"
+        },
+        {
+            "opening": "Nous sommes la Team Rocket!",
+            "win": "Qui es-tu?",
+            "lose": "Pourquoi es-tu là?"
+        },
+        {
+            "opening": "Qu'est ce que tu pense faire là?",
+            "win": "Vas t'en Maintenant!",
+            "lose": "Pars avant que j'appelle le boss!"
+        },
+        {
+            "opening": "Dégages de mon chemin!",
+            "win": "J'ai dis dégages!",
+            "lose": "Je bougerais pas!"
+        },
+        {
+            "opening": "Tu dois avoir des tripes si tu penses pouvoir me battre!",
+            "win": "Tu ne me battras jamais.",
+            "lose": "Tu m'as battu!? Noooooon!"
+        },
+        {
+            "opening": "Tes Pokémon vaudront bien quelque chose au marché noir!",
+            "win": "Vos Pokémon sont horribles!",
+            "lose": "Ils vallent peut-être plus que je ne le pensais!"
+        },
+    ]
+}
