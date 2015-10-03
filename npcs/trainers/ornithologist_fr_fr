@@ -1,0 +1,80 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 45
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "Watson"
+        },
+        {
+            "name": "Walter"
+        },
+        {
+            "name": "Montgomery"
+        },
+        {
+            "name": "Diego"
+        },
+        {
+            "name": "Arthur"
+        },
+        {
+            "name": "Carl"
+        },
+        {
+            "name": "Gaston"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Je traverse le monde avec mes Pokémon vol.",
+            "win": "Mes Pokémon vol sont super!",
+            "lose": "Non, mes merveilleux Pokémon!"
+        },
+        {
+            "opening": "J'aimerais voir quels types de Pokémon tu possédes",
+            "win": "Les Pokémon Vol sont vraiment fort. C'est pas étonnant que tu es perdu.",
+            "lose": "Je crois que les autres types sont cools aussi."
+        }
+    ]
+}
