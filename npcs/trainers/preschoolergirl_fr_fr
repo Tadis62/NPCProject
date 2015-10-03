@@ -1,0 +1,70 @@
+{
+    "data": {
+        "trainerType": "PreschoolerGirl",
+        "minLevel": 5,
+        "maxLevel": 25,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 4,
+        "winnings": 10
+    },
+    "pokemon": [
+        {
+            "name": "Riolu"
+        },
+        {
+            "name": "Dratini"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Bagon"
+        },
+        {
+            "name": "Litwick"
+        },
+        {
+            "name": "Spheal"
+        },
+        {
+            "name": "Ralts"
+        },
+        {
+            "name": "Golett"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Pied Agile\""
+        },
+        {
+            "name": "Jenny Jr."
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Je vais rendre mes parents fiers de moi!",
+            "win": "Oui! Je ne peux pas attendre pour leurs dire que j'ai gagné!",
+            "lose": "Bien joué! Ils seront fiers quand je serais bonnes en sport!"
+        },
+        {
+            "opening": "Je suis une grande fille! Je vais te battre!",
+            "win": "Ne pleure pas juste parce que t'as perdu!",
+            "lose": "J'suis une grande fille... je pleurerais pas... j'suis une grande fille... snif ."
+        },
+        {
+            "opening": "Je n'ai jamais perdu de combat Pokémon!",
+            "win": "Oui! Je suis la meilleure!",
+            "lose": "C'était mon premier combat..."
+        }
+    ]
+}
